@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Asset Studio X</string>
+    <string name="title_activity_preferences_screen">PreferencesScreen</string>
+    <string name="title_activity_preferences">PreferencesActivity</string>
 </resources>
