@@ -2,7 +2,7 @@
 
 ![banner.png](banner.png)
 <div align="center">
-  <img src="logo.png" alt="Asset Studio Logo" width="200"> 
+  <img src="logo.png" alt="Asset Studio Logo" width="32"> 
 </div>
 <br>
 
